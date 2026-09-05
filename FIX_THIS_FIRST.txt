@@ -1,0 +1,15 @@
+PHARMAPLUS V5 FIXED
+
+1. In Supabase -> SQL Editor, run the ENTIRE supabase_schema.sql from this folder.
+2. In config.js, enter your Supabase Project URL and browser-safe Publishable key.
+3. Upload/replace ALL website files on GitHub Pages, especially index.html and config.js.
+4. Hard refresh the website (Ctrl+F5), then sign out and sign back in.
+
+Fixed in this build:
+- Correct Supabase function/policy ordering.
+- Existing authenticated users without profiles are repaired.
+- Pharmacy name/location/contact now reach Supabase during signup.
+- Staff invitation code now reaches Supabase during signup.
+- Provisional receipt button now produces a provisional receipt.
+- Report print/PDF/Excel works on the first click after report generation.
+- Database-loading errors are shown instead of silently producing empty screens.
