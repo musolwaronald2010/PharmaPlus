@@ -10,5 +10,5 @@
   Use the browser-safe Publishable key (sb_publishable_...) or legacy anon key.
   NEVER use a secret/service_role key in this file.
 */
-window.PHARMAPLUS_SUPABASE_URL = "https://tcseliiwknserieoeemo.supabase.co";
-window.PHARMAPLUS_SUPABASE_KEY = "sb_publishable_0Oxld8q-rczB2i4_06u4pQ_7tHe-bsm";
+window.PHARMAPLUS_SUPABASE_URL = "https://fynbfxtupeaahhlknkbp.supabase.co";
+window.PHARMAPLUS_SUPABASE_KEY = "sb_publishable_dQdISrXz8t3nqVYD5T4pBA_fD0jOC6b";
